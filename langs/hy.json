@@ -1,0 +1,105 @@
+{
+    "title": {
+        "media": {
+            "url": "img/cover.jpg",
+            "caption": ""
+        },
+        "text": {
+            "headline": "Կարևոր դրվագներ հաշվողական գիտության և տեխնիկայի պատմությունից<br/>",
+            "text": "<p>Հաշվողական տեխնիկայի զարգացման համար անհրաժեշտ էին հարյուրավոր մարդկանց հազարավոր հայտնագործություններ և գյուտեր։ Այս պատմությունը հենց դրա մասին է։</p>"
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "img/aristotle.png",
+                "caption": "Արիստոտելը և Պլատոնը բանավիճում են համակարգիչների մասին ։)",
+                "credit": "<a href='https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/' target='_blank'>www.theatlantic.com</a>"
+            },
+            "start_date": {
+                "year": "-384"
+            },
+            "text": {
+                "headline": "Արիստոտելը և ֆորմալ տրամաբանությունը",
+                "text": "<p>Արիստոտելը ֆիքսել է տրամաբանական պարզագույն սիլլոգիզմների փաստը։ Եթե ունենք՝ </p> <ul><li>Բոլոր մարդիկ մահկանացու են</li><li>Սոկրատեսը մարդ է</li><li>Սոկրատեսը մահկանացու է</li></ul><p>Ապա հանգիստ կարող ենք փոխարինել <i>Սոկրատես</i> բառը ցանկացած այլ մարդու անունով և սիլլոգիզմի ճշմարտացիությունը դրանից չի փոխվի</p><a href='https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/' target='_blank'>Այս մասին լավ հոդված</a>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Leibnitzrechenmaschine.jpg",
+                "caption": "Լայբնիցի մեքենայի վերականգությունը",
+                "credit": "<a href='https://upload.wikimedia.org/wikipedia/commons/9/92/Leibnitzrechenmaschine.jpg'>https://wikimedia.org/</a>"
+            },
+            "start_date": {
+                "year": "1673"
+            },
+            "text": {
+                "headline": "Լայբնիցի մեխանիկական հաշվիչը",
+                "text": "<p>Լայբնիցը ստեղծում է իր հաշվիչ մեքենան Հյուգենսի աստղագիտական ահռելի հաշվարկները հեշտացնելու նպատակով։</p><a href=''>Կարդալ ավելին</a>"
+            }
+        },
+        {
+            "media": {
+                "url": "img/larithmetiquebinaire.jpg",
+                "caption": "Մեկ էջ  Leibniz G., Explication de l'Arithmétique Binaire աշխատությունից",
+                "credit": "<a href='https://www.sophiararebooks.com/pages/books/2349/gottfried-wilhelm-leibniz/explication-de-larithmetique-binaire-qui-se-sert-des-seuls-caracteres-0-et-1-avec-des-remarques-sur/?soldItem=true'>www.sophiararebooks.com</a>"
+            },
+            "start_date": {
+                "year": "1703"
+            },
+            "text": {
+                "headline": "Լայբնիցը և Երկուական հանրահաշիվը",
+                "text": "<p>Լայբնիցը գրում է «Explication de l'Arithmétique Binaire» աշխատությունը, որտեղ նկարագրում է երկուական հաշվարկման համակարգը։</p><a href='https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B7%D5%BE%D5%A1%D6%80%D5%AF%D5%B4%D5%A1%D5%B6_%D5%A5%D6%80%D5%AF%D5%B8%D6%82%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AF%D5%A1%D6%80%D5%A3'>Կարդալ ավելին</a>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pascaline_-_top_view_and_mechanism.jpg",
+                "caption": "Ինչպես է աշխատում Պասկալի մեքենան"
+            },
+            "start_date": {
+                "year": "1645"
+            },
+            "text": {
+                "headline": "Պասկալը և մեխանիկական հաշվիչ մեքենան",
+                "text": "<p>Բլեյզ Պասկալը ստեղծում է մեխանիկական հաշվիչ մեքենա, որով հնարավոր է կատարել գումարման, հանման, բազմապատկման և բաժանման գործողություններ</p><a href='https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B7%D5%BE%D5%A1%D6%80%D5%AF%D5%B4%D5%A1%D5%B6_%D5%A5%D6%80%D5%AF%D5%B8%D6%82%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AF%D5%A1%D6%80%D5%A3'>Կարդալ ավելին</a>"
+            },
+            "background":{
+                "url":""
+            }
+        },
+
+        
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg",
+                "caption": "Լինուս Թորվալդսը",
+                "credit": "<a href='https://commons.wikimedia.org'>Wikimedia Commons</a>"
+            },
+            "start_date": {
+                "year": "1991",
+                "day": "25",
+                "month": "8"
+            },
+            "text": {
+                "headline": "Linux",
+                "text": "<p>Լինուս Թորվալդսը տեղադրեց ցանցում Լինուքս օպերացիոն համակարգի կոդը։ Այսօր լինուքս համակարգը իր ածանցյալներով գրեթե ամենուրեք է։ Սկսած անձնական համակարգիչներից ու սերվերներից վերջացրած հեռախոսներով։</p><a href='https://hy.wikipedia.org/wiki/%D4%BC%D5%AB%D5%B6%D5%B8%D6%82%D6%84%D5%BD'>Կարդալ ավելին</a>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg/1024px-Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg",
+                "caption": "Քեն Թոմսոն և Դենիս Ռիչի",
+                "credit": "<a href='https://commons.wikimedia.org'>Wikimedia Commons</a>"
+            },
+            "start_date": {
+                "year": "1969"
+            },
+            "text": {
+                "headline": "UNIX",
+                "text": "<p>Քեն Թոմսոնը, Դենիս Ռիչին և Բռայն Կերնիգանը սկսեցին գրել UNIX օպերացիոն համակարգի կոդը, որը բազմաօգտատեր և բազմաառաջադրանք օպերացիոն համակարգ Է։ UNIX համակարգի ստեղծման ընթացքում առաջացած գաղափարները հետագայում մեծ ազդեցություն ունեցան GNU և Linux նախագծերի վրա։  </p>"
+            }
+        }
+
+    ]
+}
