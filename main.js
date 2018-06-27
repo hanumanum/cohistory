@@ -14,7 +14,7 @@ var getJSON = function (url, callback) {
 };
 
 var additionalOptions = {
-    start_at_end: false,
+    start_at_end: true,
     height:1000,
     hash_bookmark: true,
     timenav_height: 100,
